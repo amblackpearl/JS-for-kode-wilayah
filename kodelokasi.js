@@ -1,4 +1,4 @@
-let locations = [];
+        let locations = [];
         let districts = [];
         let subdistricts = [];
         let provinces = [];
